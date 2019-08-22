@@ -1,9 +1,6 @@
 # FaultExtraction
-Identify and extract individual faults from a fault attribute volumes
 
-
-MATLAB code for fault identification and extraction. Input data should be a fault attribute volume.
-The method is described in Bugge et al., 2018
+*MATLAB code ti identify and extract individual faults from a fault attribute volume. The method is described in Bugge et al., 2018:*
 
 ## Bugge, A. J., S. R. Clark, J. E. Lie, and J. I. Faleide, 2018, A case study on semiautomatic seismic interpretation of unconformities and faults in the southwestern Barents Sea: Interpretation, 6, SD29-SD40
 
