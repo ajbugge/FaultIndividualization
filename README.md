@@ -8,3 +8,9 @@ The method for semi-automatic fault extraction is based on the assumption that e
 a binary representation of a fault attribute volume (E.g. fault likelihood (Hale, 2013)). Prior to this, interference within the cube is 
 addressed by separating intersecting faults through morphological filter operations and by assigning objects to different dip cubes. 
 Objects that meet a set of user-defined filter criterions, related to size, are extracted from each of the dip cubes and assumed to represent individual fault surfaces.
+
+
+![faultimage_1](faultimage_1.png)<br/> *Figure 1*
+
+
+![faultimage_2](faultimage_2.png)<br/> *Figure 2*
