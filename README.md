@@ -12,5 +12,7 @@ Objects that meet a set of user-defined filter criterions, related to size, are 
 
 ![faultimage_1](faultimage_1.png)<br/> *Figure 1*
 
+![faultimage_3](faultimage_3.png)<br/> *Figure 2*
+
 
 ![faultimage_2](faultimage_2.png)<br/> *Figure 2*
