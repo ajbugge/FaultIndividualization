@@ -9,6 +9,8 @@ The method for semi-automatic fault extraction is based on the assumption that e
 a binary representation of a fault volume. Prior to this, interference within the cube is addressed by separating intersecting faults through morphological filter operations and by assigning objects to different dip cubes. Objects that meet a set of user-defined filter criterions, related to size, are extracted from each of the dip cubes and assumed to represent individual fault surfaces.
 
 
-![faultimage_1](faultimage_1.png)<br/> *Figure 1: input is a 3D fault volume, here faults are detected with a supervised machine learning algortihm*
+![fault_ind_1](fault_ind_1.png)<br/> *Figure 1: input is a 3D fault volume, here faults are detected with a supervised machine learning algortihm*
 
-![faultimage_3](faultimage_3.png)<br/> *Figure 2: output is individual fault surfaces (3D). With binary filter operations, faults are separated from each other, and noise is removed.*
+![fault_ind_2](fault_ind_2.png)<br/> *Figure 2: output is individual fault surfaces (3D). With binary filter operations, faults are separated from each other, and noise is removed.*
+
+![fault_ind_3](fault_ind_3.png)<br/> *Figure 2: output is individual fault surfaces (3D). With binary filter operations, faults are separated from each other, and noise is removed.*
