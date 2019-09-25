@@ -1,6 +1,6 @@
 # 3D Fault Individualization
 
-MATLAB code for fault individualization from 2017. The code is based on simple image processing tools and is meant to automatically filter, separate and extract individual 3D faults from a fault volume, such as a fault likelihood cube (Hale, 2013), or a fault volume resulting from supervised fault identification. 
+MATLAB code for fault individualization from 2017. The code is based on simple image processing tools to automatically filter, separate and extract individual 3D faults from a fault volume, such as a fault likelihood cube (Hale, 2013), or a fault volume resulting from supervised fault identification. 
 
 *The method is described in Bugge et al., 2018:*
 ### Bugge, A. J., S. R. Clark, J. E. Lie, and J. I. Faleide, 2018, A case study on semiautomatic seismic interpretation of unconformities and faults in the southwestern Barents Sea: Interpretation, 6, SD29-SD40
