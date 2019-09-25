@@ -9,5 +9,5 @@ The method for semi-automatic fault extraction is based on the assumption that e
 a binary representation of a fault volume. Prior to this, interference within the cube is addressed by separating intersecting faults through morphological filter operations and by assigning objects to different dip cubes. Objects that meet a set of user-defined filter criterions, related to size, are extracted from each of the dip cubes and assumed to represent individual fault surfaces.
 
 
-![FaultIndividualization](FaultIndividualization.png)<br/> *Figure: input is a 3D fault likelihood volume (Hale, 2013).
+![FaultIndividualization](FaultIndividualization.png)<br/> *Figure from Bugge et al., 2018. Automatically filtered and individualized faults from a 3D fault likelihood volumes (Hale, 2013). The figure to the right shows three individual fault surfaces after being exported to petrel. *
 
